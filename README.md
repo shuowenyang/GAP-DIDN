@@ -1,1 +1,1 @@
-MWIR snapshot compressive spectral imager with deep infrared denosing prior plug-in!
+MWIR snapshot compressive spectral imager with deep infrared denoising prior plug-in!
